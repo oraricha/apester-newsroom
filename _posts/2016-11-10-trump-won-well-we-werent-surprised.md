@@ -29,7 +29,7 @@ In the past year and a half, Apester’s interactive units better predicted the 
 
 Although it's important to highlight that Apester’s editorial units are not academic tools in any way, shape or form--they do seem to allow publishers to re-establish a broken connection with their audience. And surface some of the people’s thoughts and voices that got lost in the way.
 
-<h1>***<strong> Apester's Point of View ***</strong></h1>
+<h1><strong>*** Apester's Point of View ***</strong></h1>
 
 <span style="font-weight: 400"><img class="alignnone size-large wp-image-676" src="http://news.apester.com/wp-content/uploads/sites/2/2016/11/trump_mix-1-1024x727.png" alt="trump_mix-1" width="750" height="532" /></span>
 
