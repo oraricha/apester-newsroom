@@ -23,7 +23,7 @@ published: true
 
 <span style="font-weight: 400">We are not a polling company, nor are any of our publishing partners using our engagement products to write scientific surveys. Our objective is to provide an outlet, not only for the audience to read a story, but an environment and mechanism by which they can express their own opinion as well.  </span>
 
-<span style="font-weight: 400">The U.S. Election results show how vast the disparity is between the sentiment of the people and what is being reported by the media. In that landscape, it’s not surprising that </span><span style="font-weight: 400">a contextual social engagement tool, when used effectively by journalists, helps bridge the gap and illuminate the reader's’ true stance.</span>
+<span style="font-weight: 400">The U.S. Election results show how vast the disparity between the sentiment of the people and what is being reported by the media. In that landscape, it’s not surprising that </span><span style="font-weight: 400">a contextual social engagement tool, when used effectively by journalists, helps bridge the gap and illuminate the reader's true stance.</span>
 
 <span style="font-weight: 400"><span style="font-weight: 400">In the past year and a half, Apester’s data-driven units better predicted the results of the Greek referendum, </span><a href="http://news.apester.com/aol-apester-poll-won-super-tuesday-2-predicted-michigan-upset-2/"><span style="font-weight: 400">Super Tuesday 2,</span></a><span style="font-weight: 400"> the Michigan Democratic primary, </span><a href="http://news.apester.com/brexit-no-one-saw-it-coming-you-did/"><span style="font-weight: 400">Brexit</span></a><span style="font-weight: 400">, and now the Trump upset. </span></span>
 
@@ -43,6 +43,6 @@ published: true
 
 [iframe src="//preview.qmerce.com/interaction/57ef7f443150541336516b7f?iframe_preview=true&amp;results=true" width="100%" height="350" scrolling="no"]
 
-<span style="font-weight: 400">Whatever lies in America’s political future, it’s time we become accustomed to seeing Trump’s name in the same sentence as Roosevelt, Lincoln, Washington and Kennedy. He earned it! </span>
+<span style="font-weight: 400">Whatever lies in America’s political future, it’s time we become accustomed to seeing Trump’s name in the same sentence as Roosevelt, Lincoln, Washington and Kennedy. </span>
 
 &nbsp;
