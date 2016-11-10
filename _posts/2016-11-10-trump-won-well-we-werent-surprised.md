@@ -25,9 +25,8 @@ published: true
 
 <span style="font-weight: 400">The U.S. Election results show how vast the disparity between the sentiment of the people and what is being reported by the media. In that landscape, it’s not surprising that </span><span style="font-weight: 400">a contextual social engagement tool, when used effectively by journalists, helps bridge the gap and illuminate the reader's true stance.</span>
 
-<span style="font-weight: 400"><span style="font-weight: 400">In the past year and a half, Apester’s data-driven units better predicted the results of the Greek referendum, </span><a href="http://news.apester.com/aol-apester-poll-won-super-tuesday-2-predicted-michigan-upset-2/"><span style="font-weight: 400">Super Tuesday 2,</span></a><span style="font-weight: 400"> the Michigan Democratic primary, </span><a href="http://news.apester.com/brexit-no-one-saw-it-coming-you-did/"><span style="font-weight: 400">Brexit</span></a><span style="font-weight: 400">, and now the Trump upset. </span></span>
-
-<span style="font-weight: 400">Although it's important to highlight that Apester’s interactive units are not academic--they do seem to allow publishers to re-establish a lost connection with their audience.</span>
+In the past year and a half, Apester’s interactive units better predicted the results of the Greek referendum, <a href="http://news.apester.com/aol-apester-poll-won-super-tuesday-2-predicted-michigan-upset-2/"><span style="font-weight: 400">Super Tuesday 2,</span></a> the Michigan Democratic primary, <a href="http://news.apester.com/brexit-no-one-saw-it-coming-you-did/"><span style="font-weight: 400">Brexit</span></a>, and now the Trump upset.
+Although it's important to highlight that Apester’s editorial units are not academic tools in any way, shape or form--they do seem to allow publishers to re-establish a broken connection with their audience. And surface some of the people’s thoughts and voices that got lost in the way.
 
 <span style="font-weight: 400"><img class="alignnone size-large wp-image-676" src="http://news.apester.com/wp-content/uploads/sites/2/2016/11/trump_mix-1-1024x727.png" alt="trump_mix-1" width="750" height="532" /></span>
 
