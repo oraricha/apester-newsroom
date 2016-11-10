@@ -11,7 +11,7 @@ permalink: >
   http://news.apester.com/trump-won-well-we-werent-surprised/
 published: true
 instant_articles_submission_id:
-  - "121189108358515"
+  - "1687270908254186"
 ---
 <span style="font-weight: 400">Our mission here at Apester is pretty simple.</span>
 
@@ -37,7 +37,7 @@ Although it's important to highlight that Apester’s editorial units are not ac
 
 [iframe src="//preview.qmerce.com/interaction/57ef58a73150541336516b57?iframe_preview=true&amp;results=true" width="100%" height="404" scrolling="no"]
 
-[iframe src="//preview.qmerce.com/interaction/580696e0605e06ce17801573?iframe_preview=true&amp;results=true" width="100%" height="350" scrolling="no"]
+[iframe src="//preview.qmerce.com/interaction/580696e0605e06ce17801573?iframe_preview=true&amp;results=true" width="100%" height="708" scrolling="no"]
 
 Whatever lies in America’s political future, it’s time we become accustomed to seeing Trump’s name in the same sentence as Roosevelt, Lincoln, Washington and Kennedy.
 
