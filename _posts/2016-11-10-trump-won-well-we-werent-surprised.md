@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://news.apester.com/trump-won-well-we-werent-surprised/
 published: true
+instant_articles_submission_id:
+  - "896446213790436"
 ---
 <span style="font-weight: 400">Our mission here at Apester is pretty simple.</span>
 
@@ -35,7 +37,8 @@ Although it's important to highlight that Apester’s editorial units are not ac
 
 <span style="font-weight: 400">This election was impassioned and volatile in a way that sparked many people into action. Even well-known celebrities joined the fray--creating videos and social-media-oriented public service announcements-- they warned America about the implications of voting for a Trump presidency. Pop icon <a href="http://www.aol.co.uk/2016/09/30/im-traumatised-by-trump-says-cher-warning-that-this-election-will-change-america/"><span style="font-weight: 400">Cher</span></a><span style="font-weight: 400"> expressed her thoughts, warning the US of the dangers Trump would bring. </span></span>
 
-[interaction id="57ef58a73150541336516b57"]
+[iframe src="//preview.qmerce.com/interaction/57ef58a73150541336516b57?iframe_preview=true&amp;results=true" width="100%" height="404" scrolling="no"]
+
 
 <span style="font-weight: 400">Even George Bush shared his thoughts on who should be the next U.S. President. </span>
 
