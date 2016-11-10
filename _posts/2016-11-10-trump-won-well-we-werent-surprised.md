@@ -43,6 +43,8 @@ published: true
 
 [iframe src="//preview.qmerce.com/interaction/57ef7f443150541336516b7f?iframe_preview=true&amp;results=true" width="100%" height="350" scrolling="no"]
 
+&nbsp;
+
 <span style="font-weight: 400">Whatever lies in America’s political future, it’s time we become accustomed to seeing Trump’s name in the same sentence as Roosevelt, Lincoln, Washington and Kennedy. </span>
 
 &nbsp;
