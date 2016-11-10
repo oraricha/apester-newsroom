@@ -11,7 +11,7 @@ permalink: >
   http://news.apester.com/trump-won-well-we-werent-surprised/
 published: true
 instant_articles_submission_id:
-  - "896446213790436"
+  - "726050764226436"
 ---
 <span style="font-weight: 400">Our mission here at Apester is pretty simple.</span>
 
@@ -30,15 +30,12 @@ instant_articles_submission_id:
 In the past year and a half, Apester’s interactive units better predicted the results of the Greek referendum, <a href="http://news.apester.com/aol-apester-poll-won-super-tuesday-2-predicted-michigan-upset-2/"><span style="font-weight: 400">Super Tuesday 2,</span></a> the Michigan Democratic primary, <a href="http://news.apester.com/brexit-no-one-saw-it-coming-you-did/"><span style="font-weight: 400">Brexit</span></a>, and now the Trump upset.
 
 Although it's important to highlight that Apester’s editorial units are not academic tools in any way, shape or form--they do seem to allow publishers to re-establish a broken connection with their audience. And surface some of the people’s thoughts and voices that got lost in the way.
-
 <h1><strong>*** Apester's Point of View ***</strong></h1>
-
 <span style="font-weight: 400"><img class="alignnone size-large wp-image-676" src="http://news.apester.com/wp-content/uploads/sites/2/2016/11/trump_mix-1-1024x727.png" alt="trump_mix-1" width="750" height="532" /></span>
 
 <span style="font-weight: 400">This election was impassioned and volatile in a way that sparked many people into action. Even well-known celebrities joined the fray--creating videos and social-media-oriented public service announcements-- they warned America about the implications of voting for a Trump presidency. Pop icon <a href="http://www.aol.co.uk/2016/09/30/im-traumatised-by-trump-says-cher-warning-that-this-election-will-change-america/"><span style="font-weight: 400">Cher</span></a><span style="font-weight: 400"> expressed her thoughts, warning the US of the dangers Trump would bring. </span></span>
 
 [iframe src="//preview.qmerce.com/interaction/57ef58a73150541336516b57?iframe_preview=true&amp;results=true" width="100%" height="404" scrolling="no"]
-
 
 <span style="font-weight: 400">Even George Bush shared his thoughts on who should be the next U.S. President. </span>
 
