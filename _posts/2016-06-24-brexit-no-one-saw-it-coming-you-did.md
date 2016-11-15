@@ -1,15 +1,13 @@
 ---
 ID: 502
 post_title: 'Brexit: No one saw it coming? You did!'
-author: jodi
+author: Apester
 post_date: 2016-06-24 13:50:14
 post_excerpt: ""
 layout: post
 permalink: >
   http://news.apester.com/brexit-no-one-saw-it-coming-you-did/
 published: true
-instant_articles_submission_id:
-  - "1664219310561840"
 ---
 <strong>No one saw it coming? You did.</strong>
 
@@ -21,7 +19,7 @@ Voters shared that sentiment over and over again in the past weeks as the UK was
 
 (Naturally, the referendum became a huge topic on our network, making <a href="http://news.apester.com/brexit-if-you-ask-it-they-will-come-and-engage/" target="_blank">“referendum” one of the most engaging terms we’ve seen.</a>)
 
-[interaction id="569232d38089e8dd05a818c7"]
+[iframe src="//preview.qmerce.com/interaction/569232d38089e8dd05a818c7?iframe_preview=true" width="100%" height="350" scrolling="no"]
 
 Publishers across our vast network asked about it repeatedly, exploring every angle and trying to gauge the ever elusive wind direction in the run up to this historic decision. From the Telegraph to Bath Chronicle, from The Independent to Hull Daily, From Business Insider to Gloucester Citizen, they all wanted to know what you think. And you were quite clear about it, actually.
 
