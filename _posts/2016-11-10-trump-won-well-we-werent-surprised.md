@@ -11,7 +11,7 @@ permalink: >
   http://news.apester.com/trump-won-well-we-werent-surprised/
 published: true
 instant_articles_submission_id:
-  - "1615495282086415"
+  - "1028900393902057"
 ---
 Our mission here at Apester is pretty simple.
 
@@ -35,8 +35,8 @@ Although it's important to highlight that Apester’s editorial units are not ac
 
 This election was impassioned and volatile in a way that sparked many people into action. Even well-known celebrities joined the fray--creating videos and social-media-oriented public service announcements-- they warned America about the implications of voting for a Trump presidency. Pop icon <a href="http://www.aol.co.uk/2016/09/30/im-traumatised-by-trump-says-cher-warning-that-this-election-will-change-america/">Cher</a> expressed her thoughts, warning the US of the dangers Trump would bring.
 
-[iframe src="//preview.qmerce.com/interaction/57d73ee260f05dde7e58f6c3?iframe_preview=true" width="100%" height="350" scrolling="no"]
-<br>
-[iframe src="//preview.qmerce.com/interaction/580696e0605e06ce17801573?iframe_preview=true&amp;results=true" width="100%" height="708" scrolling="no"]
+[iframe src="//preview.qmerce.com/interaction/57d73ee260f05dde7e58f6c3" width="100%" height="350" scrolling="no"]
+
+[iframe src="//preview.qmerce.com/interaction/580696e0605e06ce17801573?results=true" width="100%" height="708" scrolling="no"]
 
 Whatever lies in America’s political future, it’s time we become accustomed to seeing Trump’s name in the same sentence as Roosevelt, Lincoln, Washington and Kennedy.
