@@ -9,7 +9,7 @@ permalink: >
   http://news.apester.com/brexit-if-you-ask-it-they-will-come-and-engage/
 published: true
 instant_articles_submission_id:
-  - "352984251722105"
+  - "191105318013665"
 ---
 <h1><strong>Brexit: if you ask it, they will come (and engage)</strong></h1>
 There’s definitely something to be said for sitting atop a mountain of data. The air’s fresh, the view’s amazing and we get to see things a lot clearer.
@@ -24,7 +24,6 @@ We took all that data and had a deeper look into the numbers and get a hold of t
 If you ask it, they will come.
 
 <img class="alignnone wp-image-472 size-full" src="http://news.apester.com/wp-content/uploads/sites/2/2016/06/image.png" alt="" width="910" height="315" />
-
 (Engagement Rate - CTR - on Referendum related interactive items on the Apester network)
 
 Capitalising on burning issues like the referendum while producing amazing statistical and editorial value is definitely one of the secrets to getting more out of Apester (a badly kept secret, we told everyone).
