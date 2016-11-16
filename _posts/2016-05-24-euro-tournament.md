@@ -8,7 +8,7 @@ layout: post
 permalink: http://news.apester.com/euro-tournament/
 published: true
 instant_articles_submission_id:
-  - "1605160403123115"
+  - "1619947124965495"
 ---
 <strong>Great! </strong> You made it!
 
@@ -19,7 +19,9 @@ First, let’s get some technical details out of the way... how do you actually 
  	<li>Log into your Apester dashboard</li>
  	<li>Go to the “Show” window and click on the arrow</li>
 </ol>
-<img class="aligncenter wp-image-417" src="http://news.apester.com/wp-content/uploads/sites/2/2016/05/euro16.png" alt="" width="670" height="458" />
+
+<img class="aligncenter wp-image-417 size-large" src="http://news.apester.com/wp-content/uploads/sites/2/2016/05/euro16-1024x700.png" width="750" height="513" />
+
 <ol>
  	<li>Find the “Euro2016” channel</li>
  	<li>Find the item you want to embed</li>
