@@ -9,7 +9,7 @@ permalink: >
   http://news.apester.com/brexit-if-you-ask-it-they-will-come-and-engage/
 published: true
 instant_articles_submission_id:
-  - "1788680328071151"
+  - "352984251722105"
 ---
 <h1><strong>Brexit: if you ask it, they will come (and engage)</strong></h1>
 There’s definitely something to be said for sitting atop a mountain of data. The air’s fresh, the view’s amazing and we get to see things a lot clearer.
@@ -22,6 +22,7 @@ More Apester interactive content is being created per day and more angles of the
 
 We took all that data and had a deeper look into the numbers and get a hold of this tidbit: in the run up to June 23 - just mention the term “referendum” in an Apester poll and you’re guaranteed 30% engagement rate (see graph below). That’s sky high, instant engagement.
 If you ask it, they will come.
+
 <img class="alignnone wp-image-472 size-full" src="http://news.apester.com/wp-content/uploads/sites/2/2016/06/image.png" alt="" width="910" height="315" />
 
 (Engagement Rate - CTR - on Referendum related interactive items on the Apester network)
