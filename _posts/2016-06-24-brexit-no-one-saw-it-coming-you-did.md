@@ -8,6 +8,10 @@ layout: post
 permalink: >
   http://news.apester.com/brexit-no-one-saw-it-coming-you-did/
 published: true
+instant_articles_force_submit:
+  - "1"
+instant_articles_submission_id:
+  - "608396046028255"
 ---
 <strong>No one saw it coming? You did.</strong>
 
