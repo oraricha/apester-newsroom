@@ -9,7 +9,12 @@ permalink: >
   http://news.apester.com/inneractive_apester_basic/
 published: true
 ---
-<code>
+This is basic integration with Inneractive 
+
+
+
+
+and this interaction:
 
 
 </code>
