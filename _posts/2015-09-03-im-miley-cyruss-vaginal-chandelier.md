@@ -1,15 +1,13 @@
 ---
 ID: 107
 post_title: I’m Miley Cyrus’s Vaginal Chandelier
-author: jodi
+author: Ben Kalsky
 post_date: 2015-09-03 15:29:38
 post_excerpt: ""
 layout: post
 permalink: >
   http://news.apester.com/im-miley-cyruss-vaginal-chandelier/
 published: true
-instant_articles_submission_id:
-  - "511393602391628"
 ---
 Are you her MTV Crotch Lips? Take a moment to figure out, cause this is an extremely important issue: <a href="http://www.huffingtonpost.com/entry/quiz-which-miley-vmas-outfit-are-you_us_55e4bc32e4b0b7a96339f1c7" target="_blank">Which of Mileys’ “unique” MTV VMA outfits best fits your personality?</a>
 [interaction id="55e4b36047016b292e3e119e"]
