@@ -1,7 +1,7 @@
 ---
 ID: 104
 post_title: To be or not to be naked?
-author: jodi
+author: Ben Kalsky
 post_date: 2015-09-07 15:02:31
 post_excerpt: ""
 layout: post
