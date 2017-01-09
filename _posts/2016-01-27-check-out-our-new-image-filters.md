@@ -1,7 +1,7 @@
 ---
 ID: 48
 post_title: Check out our new Image Filters
-author: Baboon
+author: Ben Kalsky
 post_date: 2016-01-27 14:44:14
 post_excerpt: ""
 layout: post
