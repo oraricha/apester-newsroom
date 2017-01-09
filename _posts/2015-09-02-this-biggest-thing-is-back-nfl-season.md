@@ -3,15 +3,13 @@ ID: 110
 post_title: >
   This Biggest Thing is Back – NFL
   Season
-author: jodi
+author: Ben Kalsky
 post_date: 2015-09-02 15:43:36
 post_excerpt: ""
 layout: post
 permalink: >
   http://news.apester.com/this-biggest-thing-is-back-nfl-season/
 published: true
-instant_articles_submission_id:
-  - "538409879691510"
 ---
 The NFL season will kick off next week. And while Opening Day Match between the reigning champions New England Patriots and the visiting Pittsburgh Steelers is all about Tom Brady’s suspension debate – there’s much more going on around the league. But first things first – the Deflategate thing. Let’s put it out of the way.
 Most of you are convinced Brady is guilty.
