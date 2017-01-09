@@ -3,7 +3,7 @@ ID: 675
 post_title: >
   Trump Won, well we weren’t
   surprised…
-author: Apester
+author: Ben Kalsky
 post_date: 2016-11-10 08:01:09
 post_excerpt: ""
 layout: post
@@ -11,7 +11,7 @@ permalink: >
   http://news.apester.com/trump-won-well-we-werent-surprised/
 published: true
 instant_articles_submission_id:
-  - "1028900393902057"
+  - "161898420960636"
 ---
 Our mission here at Apester is pretty simple.
 
