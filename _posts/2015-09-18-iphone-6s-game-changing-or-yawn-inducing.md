@@ -1,7 +1,7 @@
 ---
 ID: 98
 post_title: 'Iphone 6s &#8211; game changing or yawn inducing?'
-author: jodi
+author: Ben Kalsky
 post_date: 2015-09-18 14:44:02
 post_excerpt: ""
 layout: post
