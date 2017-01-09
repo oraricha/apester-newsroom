@@ -1,7 +1,7 @@
 ---
 ID: 133
 post_title: 'Super Bowl 50- Your Pre, Post &amp; During Game Manual'
-author: jodi
+author: Ben Kalsky
 post_date: 2016-02-02 08:28:02
 post_excerpt: ""
 layout: post
