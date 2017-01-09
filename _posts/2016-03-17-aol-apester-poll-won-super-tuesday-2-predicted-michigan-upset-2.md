@@ -4,7 +4,7 @@ post_title: >
   How An AOL Apester Poll Won Super
   Tuesday 2 And Predicted The Michigan
   Upset
-author: chris1
+author: Ben Kalsky
 post_date: 2016-03-17 19:21:25
 post_excerpt: ""
 layout: post
