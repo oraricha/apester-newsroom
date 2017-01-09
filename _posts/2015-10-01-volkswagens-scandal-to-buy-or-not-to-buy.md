@@ -1,7 +1,7 @@
 ---
 ID: 90
 post_title: 'Volkswagen’s Scandal &#8211; To buy or not to buy?'
-author: jodi
+author: Ben Kalsky
 post_date: 2015-10-01 14:20:00
 post_excerpt: ""
 layout: post
