@@ -1,7 +1,7 @@
 ---
 ID: 101
 post_title: 'On Immigrants, ISIS, and an Expensive mast &#8211; What do the people of Apester think of Britain’s Prime Minister &#8211; Mr. David Cameron'
-author: jodi
+author: Ben Kalsky
 post_date: 2015-09-11 14:54:06
 post_excerpt: ""
 layout: post
