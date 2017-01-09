@@ -3,7 +3,7 @@ ID: 19
 post_title: >
   A picture is worth a thousand words. So
   make it count
-author: Baboon
+author: Ben Kalsky
 post_date: 2015-11-03 18:28:01
 post_excerpt: ""
 layout: post
