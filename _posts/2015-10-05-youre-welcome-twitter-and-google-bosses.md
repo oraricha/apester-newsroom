@@ -3,7 +3,7 @@ ID: 94
 post_title: >
   You’re welcome, Twitter and Google
   bosses
-author: jodi
+author: Ben Kalsky
 post_date: 2015-10-05 14:34:36
 post_excerpt: ""
 layout: post
