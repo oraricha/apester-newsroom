@@ -3,15 +3,13 @@ ID: 551
 post_title: >
   What’s the greatest Olympic moment of
   all time?
-author: jodi
+author: Ben Kalsky
 post_date: 2016-07-25 10:24:25
 post_excerpt: ""
 layout: post
 permalink: >
   http://news.apester.com/whats-the-greatest-olympic-moment-of-all-time/
 published: true
-instant_articles_submission_id:
-  - "1703361306653040"
 ---
 Apester is letting the WORLD decide! 
 
