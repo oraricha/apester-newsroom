@@ -1,15 +1,13 @@
 ---
 ID: 237
 post_title: 'Tutorial: Creating a Personality Test'
-author: jodi
+author: Ben Kalsky
 post_date: 2016-01-02 08:34:26
 post_excerpt: ""
 layout: post
 permalink: >
   http://news.apester.com/tutorial-creating-a-personality-test/
 published: true
-instant_articles_submission_id:
-  - "150657605358321"
 ---
 Now that you've mastered the Poll and Quiz, give a Personality Test a try!
 
