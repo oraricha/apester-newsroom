@@ -1,7 +1,7 @@
 ---
 ID: 234
 post_title: 'Tutorial: Creating a Quiz'
-author: jodi
+author: Ben Kalsky
 post_date: 2016-01-02 08:31:15
 post_excerpt: ""
 layout: post
