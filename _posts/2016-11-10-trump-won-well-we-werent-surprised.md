@@ -10,8 +10,6 @@ layout: post
 permalink: >
   http://news.apester.com/trump-won-well-we-werent-surprised/
 published: true
-instant_articles_submission_id:
-  - "161898420960636"
 ---
 Our mission here at Apester is pretty simple.
 
@@ -30,7 +28,9 @@ The U.S. Election results show how vast the disparity between the sentiment of t
 In the past year and a half, Apester’s interactive units better predicted the results of the Greek referendum, <a href="http://news.apester.com/aol-apester-poll-won-super-tuesday-2-predicted-michigan-upset-2/">Super Tuesday 2</a>, the Michigan Democratic primary, <a href="http://news.apester.com/brexit-no-one-saw-it-coming-you-did/">Brexit</a>, and now the Trump upset.
 
 Although it's important to highlight that Apester’s editorial units are not academic tools in any way, shape or form--they do seem to allow publishers to re-establish a broken connection with their audience. And surface some of the people’s thoughts and voices that got lost in the way.
+
 <h1><strong>*** Apester's Point of View ***</strong></h1>
+
 <img class="alignnone size-large wp-image-676" src="http://news.apester.com/wp-content/uploads/sites/2/2016/11/trump_mix-1-1024x727.png" alt="trump_mix-1" width="750" height="532" />
 
 This election was impassioned and volatile in a way that sparked many people into action. Even well-known celebrities joined the fray--creating videos and social-media-oriented public service announcements-- they warned America about the implications of voting for a Trump presidency. Pop icon <a href="http://www.aol.co.uk/2016/09/30/im-traumatised-by-trump-says-cher-warning-that-this-election-will-change-america/">Cher</a> expressed her thoughts, warning the US of the dangers Trump would bring.
@@ -40,3 +40,7 @@ This election was impassioned and volatile in a way that sparked many people int
 [iframe src="//preview.qmerce.com/interaction/580696e0605e06ce17801573?results=true" width="100%" height="708" scrolling="no"]
 
 Whatever lies in America’s political future, it’s time we become accustomed to seeing Trump’s name in the same sentence as Roosevelt, Lincoln, Washington and Kennedy.
+
+&nbsp;
+
+[interaction id="588655bd6904cee705a6995d"]
