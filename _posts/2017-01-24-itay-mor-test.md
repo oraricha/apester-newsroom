@@ -7,5 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://news.apester.com/itay-mor-test/
 published: true
+instant_articles_submission_id:
+  - "1820952628159499"
 ---
-[interaction id="58159be72aaef130597d28bb"]
+<iframe height="599" width="100%" style="!important; display: block !important; height: 599px" scrolling="0" frameBorder="0" src="//renderer.qmerce.com/interaction/58159be72aaef130597d28bb"></iframe>
