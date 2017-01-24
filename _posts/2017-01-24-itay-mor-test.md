@@ -8,4 +8,5 @@ layout: post
 permalink: http://news.apester.com/itay-mor-test/
 published: true
 ---
-<div class="apester-media" data-media-id="58159be72aaef130597d28bb" height="599"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="58159be72aaef130597d28bb"></div>
+<script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
