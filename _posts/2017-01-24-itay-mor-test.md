@@ -7,6 +7,5 @@ post_excerpt: ""
 layout: post
 permalink: http://news.apester.com/itay-mor-test/
 published: true
-instant_articles_submission_id:
-  - "109427702904120"
 ---
+[interaction id="58159be72aaef130597d28bb"]
