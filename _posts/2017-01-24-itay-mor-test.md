@@ -1,0 +1,13 @@
+---
+ID: 1131
+post_title: 'itay mor &#8211; test'
+author: Apester
+post_date: 2017-01-24 07:49:54
+post_excerpt: ""
+layout: post
+permalink: http://news.apester.com/itay-mor-test/
+published: true
+instant_articles_submission_id:
+  - "1878005402434854"
+---
+&lt;div class="apester-media" data-media-id="58159be72aaef130597d28bb" height="599"&gt;&lt;/div&gt;
