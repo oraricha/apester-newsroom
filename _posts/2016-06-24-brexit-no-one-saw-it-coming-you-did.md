@@ -11,33 +11,9 @@ published: true
 instant_articles_force_submit:
   - "1"
 instant_articles_submission_id:
-  - "1322232497836081"
+  - "204572170009373"
 ---
 <strong>No one saw it coming? You did.</strong>
-
-TEST 2
-
-<figure class="op-interactive">
-
-<iframe class="no-margin">
-
-
-
-<div class="apester-media" id="569232d38089e8dd05a818c7">
-
-<script async src="https://static.apester.com/js/embed/v2.0/apester-javascript-embed.min.js"></script>
-
-</div>
-
-
-
-</iframe>
-
-</figure>
-
-TEST 2 end
-
-&nbsp;
 
 What a jaw-dropping result. At least half the nation is in a state of shock. Who knew? No one believed they’d pull that trigger, no one really thought they’d actually go through with it. Some last minute polls showed a small gap for Remain but it was all too close to call. Did anyone see it coming?
 
@@ -58,7 +34,6 @@ The people wanted out.
 [iframe src="//preview.qmerce.com/interaction/56cada698f0287d70a5bd0ee" width="100%" height="350" scrolling="no"]
 
 Have a look at the top 10 most engaging items on the referendum from our network, a small sample of a huge amount of polls created in the run up to the actual referendum. The bottom line is staggering: 63% leave, 37% remain.
-
 <div class="table-responsive">
 <table class="table table-bordered table-hover">
 <thead>
@@ -147,9 +122,7 @@ Have a look at the top 10 most engaging items on the referendum from our network
 </tfoot>
 </table>
 </div>
-
 <p class="table-caption">* 2% undecided</p>
-
 We love it when the numbers speak for themselves.
 
 <strong>How Apester is shining a light on Brexit uncertainty</strong>
