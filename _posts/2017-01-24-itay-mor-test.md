@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://news.apester.com/itay-mor-test/
 published: true
+instant_articles_submission_id:
+  - "1624970161146012"
 ---
-<div class="apester-media" data-media-id="58159be72aaef130597d28bb"></div>
-<script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+&lt;div class="apester-media" data-media-id="58159be72aaef130597d28bb" height="599"&gt;&lt;/div&gt;
