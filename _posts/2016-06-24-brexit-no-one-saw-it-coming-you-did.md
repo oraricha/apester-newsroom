@@ -11,11 +11,15 @@ published: true
 instant_articles_force_submit:
   - "1"
 instant_articles_submission_id:
-  - "204572170009373"
+  - "1492196677487629"
 ---
 <strong>No one saw it coming? You did.</strong>
 
 What a jaw-dropping result. At least half the nation is in a state of shock. Who knew? No one believed they’d pull that trigger, no one really thought they’d actually go through with it. Some last minute polls showed a small gap for Remain but it was all too close to call. Did anyone see it coming?
+
+<div class="apester-media" id="579ec44c8b53fe9e0f09eb2a">
+ <script async src="//static.apester.com/js/embed/v2.0/apester-javascript-embed.min.js"></script>
+</div>
 
 The millions of voters on the Apester network did.
 
