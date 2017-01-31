@@ -11,16 +11,12 @@ published: true
 instant_articles_force_submit:
   - "1"
 instant_articles_submission_id:
-  - "739304692894915"
+  - "1925442911023097"
 ---
 <strong>No one saw it coming? You did.</strong>
 
 What a jaw-dropping result. At least half the nation is in a state of shock. Who knew? No one believed they’d pull that trigger, no one really thought they’d actually go through with it. Some last minute polls showed a small gap for Remain but it was all too close to call. Did anyone see it coming?
-
-<div class="apester-media" id="579ec44c8b53fe9e0f09eb2a">
- <script async src="//static.apester.com/js/embed/v2.0/apester-javascript-embed.min.js"></script>
-</div>
-
+<div id="5886305e8ab36a3115d0b5fe" class="apester-media"><script async src="//static.apester.com/js/embed/v2.0/apester-javascript-embed.min.js"></script></div>
 The millions of voters on the Apester network did.
 
 Voters shared that sentiment over and over again in the past weeks as the UK was engulfed by a great wave of percentages, splits, point-swings and undecided voters, by leave, remain, in and out, yes and no - while the old continent and the rest of the world stood by in anticipation.
