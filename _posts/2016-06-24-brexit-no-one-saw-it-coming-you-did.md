@@ -11,7 +11,7 @@ published: true
 instant_articles_force_submit:
   - "1"
 instant_articles_submission_id:
-  - "1492196677487629"
+  - "739304692894915"
 ---
 <strong>No one saw it coming? You did.</strong>
 
