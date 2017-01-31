@@ -11,7 +11,7 @@ published: true
 instant_articles_force_submit:
   - "1"
 instant_articles_submission_id:
-  - "273898276361949"
+  - "1208566565897017"
 ---
 <strong>No one saw it coming? You did.</strong>
 
@@ -22,6 +22,8 @@ The millions of voters on the Apester network did.
 <div id="588f6415c944c7013e509921" class="apester-media"><script async src="//static.apester.com/js/embed/v2.0/apester-javascript-embed.min.js"></script></div>
 
 Voters shared that sentiment over and over again in the past weeks as the UK was engulfed by a great wave of percentages, splits, point-swings and undecided voters, by leave, remain, in and out, yes and no - while the old continent and the rest of the world stood by in anticipation.
+
+<interaction id="588f6415c944c7013e509921"></interaction>
 
 (Naturally, the referendum became a huge topic on our network, making <a href="http://news.apester.com/brexit-if-you-ask-it-they-will-come-and-engage/" target="_blank">“referendum” one of the most engaging terms we’ve seen.</a>)
 
